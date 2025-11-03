@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pathway Navigator for Job Seekers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Career Pathway Navigator</h1>
+        </header>
+
+        <main>
+            <!-- Domain Selection Screen -->
+            <div id="domain-screen" class="screen active">
+                <h2>Select Your Career Domain</h2>
+                <div class="domain-options">
+                    <button id="it-domain" class="domain-btn">IT Careers</button>
+                    <button id="nonit-domain" class="domain-btn">Non-IT Careers</button>
+                </div>
+            </div>
+
+            <!-- Input Form Screen -->
+            <div id="input-screen" class="screen">
+                <h2 id="form-title">Provide Your Details</h2>
+                <form id="pathway-form">
+                    <div id="branch-field" class="form-group hidden">
+                        <label for="branch">Your Branch:</label>
+                        <input type="text" id="branch" name="branch" placeholder="e.g., Mechanical">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="job_role">Desired Job Role:</label>
+                        <input type="text" id="job_role" name="job_role" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="skills">Your Current Skills (comma separated):</label>
+                        <textarea id="skills" name="skills" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="academic_year">Current Academic Year:</label>
+                        <select id="academic_year" name="academic_year" required>
+                            <option value="1">Year 1</option>
+                            <option value="2">Year 2</option>
+                            <option value="3">Year 3</option>
+                            <option value="4">Year 4</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" id="submit-btn">Get Pathway</button>
+                </form><br>
+                <button id="back-btn" class="hidden">Back</button>
+            </div>
+
+            <!-- Results Screen -->
+            <div id="results-screen" class="screen">
+                <div id="results-container">
+                    <h2>Your Career Pathway</h2>
+                    <div id="pathway-results"></div>
+                    
+                    <div class="recruitment-section">
+                        <h3>Company Hiring Process</h3>
+                        <div class="recruitment-form">
+                            <input type="text" id="company-name" placeholder="Enter company name">
+                            <button id="fetch-recruitment">Get Hiring Process</button>
+                        </div>
+                        <div id="recruitment-process"></div>
+                    </div>
+                </div>
+                <button id="new-search-btn">New Search</button>
+            </div>
+
+            <div id="loading-screen" class="screen">
+                <div class="loader"></div>
+                <p>Generating your pathway...</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

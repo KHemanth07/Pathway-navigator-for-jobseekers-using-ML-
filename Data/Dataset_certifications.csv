@@ -1,0 +1,105 @@
+﻿Job_Role,Skill,Certification,Platform
+Software Engineer/Developer,Java,"Oracle Certified Professional: Java SE Programmer, Oracle Certified Master: Java SE Developer",Oracle University
+Software Engineer/Developer,Python,"Python Institute: PCAP (Certified Associate in Python Programming), Python Institute: PCPP (Certified Professional in Python Programming), Microsoft: MTA Python","Python Institute, Microsoft Learn"
+Software Engineer/Developer,C++,"C++ Institute: CPA (C++ Certified Associate Programmer), C++ Institute: CPP (C++ Certified Professional Programmer)",C++ Institute
+Software Engineer/Developer,SQL,"Oracle SQL Certification, Microsoft: MTA Database Fundamentals, MySQL Certification","Oracle University, Microsoft Learn, MySQL (Oracle)"
+Software Engineer/Developer,Problem-Solving,"Google: Professional Data Engineer, AWS Certified Developer","Google Cloud Training, AWS Training"
+Data Scientist,Python,"Python Institute: PCAP/PCPP, Microsoft: MTA Python","Python Institute, Microsoft Learn"
+Data Scientist,R,"R Programming Certification (Coursera), Data Science with R (edX)","Coursera, edX"
+Data Scientist,Machine Learning,"Google: Professional Machine Learning Engineer, TensorFlow Developer Certificate, IBM: Data Science Professional Certificate","Google Cloud Training, TensorFlow Certification, Coursera (IBM)"
+Data Scientist,Statistics,"SAS Certified Data Scientist, Microsoft: Azure Data Scientist Associate","SAS Training, Microsoft Learn"
+Data Scientist,Data Visualization,"Tableau Desktop Specialist, Power BI Certification (Microsoft)","Tableau Training, Microsoft Learn"
+Cloud Engineer,Cloud Computing,"AWS Certified Solutions Architect, Microsoft Certified: Azure Administrator, Google Cloud Professional Cloud Architect","AWS Training, Microsoft Learn, Google Cloud Training"
+Cloud Engineer,Linux,"Red Hat Certified Engineer (RHCE), Linux Professional Institute Certification (LPIC)","Red Hat Training, Linux Professional Institute"
+Cloud Engineer,Networking,"Cisco Certified Network Associate (CCNA), CompTIA Network+","Cisco Networking Academy, CompTIA"
+Cloud Engineer,DevOps,"AWS Certified DevOps Engineer, Microsoft Certified: Azure DevOps Engineer Expert","AWS Training, Microsoft Learn"
+Cloud Engineer,Automation,"Red Hat Certified Specialist in Ansible Automation, Puppet Certified Professional","Red Hat Training, Puppet Training"
+DevOps Engineer,CI/CD,"Jenkins Certification (CloudBees), GitLab CI/CD Certification","CloudBees, GitLab Training"
+DevOps Engineer,Automation,"Red Hat Certified Specialist in Ansible Automation, Puppet Certified Professional","Red Hat Training, Puppet Training"
+DevOps Engineer,Scripting,"Python Institute: PCAP/PCPP, Shell Scripting Certification (Linux Academy)","Python Institute, Linux Academy"
+DevOps Engineer,Linux,"Red Hat Certified Engineer (RHCE), Linux Professional Institute Certification (LPIC)","Red Hat Training, Linux Professional Institute"
+DevOps Engineer,Networking,"Cisco Certified Network Associate (CCNA), CompTIA Network+","Cisco Networking Academy, CompTIA"
+Cybersecurity Analyst,Ethical Hacking,"Certified Ethical Hacker (CEH), Offensive Security Certified Professional (OSCP)","EC-Council, Offensive Security"
+Cybersecurity Analyst,Network Security,"CompTIA Security+, Cisco Certified CyberOps Associate","CompTIA, Cisco Networking Academy"
+Cybersecurity Analyst,Risk Management,"Certified Information Security Manager (CISM), Certified in Risk and Information Systems Control (CRISC)",ISACA
+Cybersecurity Analyst,Encryption,"Certified Information Systems Security Professional (CISSP), EC-Council: Encryption Specialist","(ISC)², EC-Council"
+Full Stack Developer,JavaScript,"Microsoft: MTA HTML5 Application Development, JavaScript Developer Certification (W3Schools)","Microsoft Learn, W3Schools"
+Full Stack Developer,React,"React Certification (React Training), Frontend Development Certification (freeCodeCamp)","React Training, freeCodeCamp"
+Full Stack Developer,Node.js,"Node.js Certification (OpenJS Node.js Services Developer), MongoDB Certified Developer","OpenJS Foundation, MongoDB University"
+Full Stack Developer,Databases,"MongoDB Certified Developer, Oracle SQL Certification","MongoDB University, Oracle University"
+Full Stack Developer,HTML/CSS,"Microsoft: MTA HTML5 Application Development, W3Schools HTML/CSS Certification","Microsoft Learn, W3Schools"
+AI/ML Engineer,Python,"Python Institute: PCAP/PCPP, Microsoft: MTA Python","Python Institute, Microsoft Learn"
+AI/ML Engineer,Machine Learning,"Google: Professional Machine Learning Engineer, TensorFlow Developer Certificate","Google Cloud Training, TensorFlow Certification"
+AI/ML Engineer,Deep Learning,"DeepLearning.AI: Deep Learning Specialization (Coursera), NVIDIA Deep Learning Institute Certification","Coursera, NVIDIA DLI"
+AI/ML Engineer,Data Modeling,"Microsoft: Azure AI Engineer Associate, IBM: AI Engineering Professional Certificate","Microsoft Learn, Coursera (IBM)"
+UI/UX Designer,Wireframing,"Google UX Design Professional Certificate, Interaction Design Foundation (IDF) Certifications","Coursera (Google), Interaction Design Foundation"
+UI/UX Designer,Prototyping,"Adobe Certified Expert (ACE): XD, Figma Design Certification","Adobe Training, Figma Training"
+UI/UX Designer,User Research,"Nielsen Norman Group: UX Certification, Human-Computer Interaction (Coursera)","Nielsen Norman Group, Coursera"
+UI/UX Designer,Visual Design,"Adobe Certified Expert (ACE): Photoshop/Illustrator, Canva Design School Certification","Adobe Training, Canva Design School"
+Mobile App Engineer,Android,"Google: Associate Android Developer, Kotlin Certification (JetBrains)","Google Developers, JetBrains Academy"
+Mobile App Engineer,iOS,"Apple: Swift Certification, iOS Development Certification (Udemy)","Apple Developer, Udemy"
+Mobile App Engineer,Kotlin,"Kotlin Certification (JetBrains), Android Development with Kotlin (Udacity)","JetBrains Academy, Udacity"
+Mobile App Engineer,Swift,"Apple: Swift Certification, iOS Development with Swift (Udemy)","Apple Developer, Udemy"
+Mobile App Engineer,Mobile App Development,"Flutter Certification (Flutter Institute), React Native Certification (Udemy)","Flutter Training, Udemy"
+Front-End Developer,HTML & CSS,HTML and CSS Certification,FreeCodeCamp
+Front-End Developer,HTML & CSS,HTML5 and CSS3 Certification,W3C (edX)
+Front-End Developer,JavaScript,JavaScript Algorithms and Data Structures,FreeCodeCamp
+Front-End Developer,JavaScript,Modern JavaScript: ES6+ Certification,Udemy
+Front-End Developer,JavaScript,JavaScript Developer Certification,W3Schools
+Front-End Developer,React.js,Meta Front-End Developer Certificate (React Specialization),Coursera (Meta)
+Front-End Developer,React.js,React Certification Training,Edureka
+Front-End Developer,Angular,Google Developers Angular Certification,Google
+Front-End Developer,Node.js,The Complete Node.js Developer Course,Udemy
+Front-End Developer,Express.js,Node.js & Express.js Certification,Udemy
+Front-End Developer,MongoDB,MongoDB Certified Developer Associate,MongoDB University
+Front-End Developer,MongoDB,MongoDB Basics Certification,MongoDB University (Free)
+Front-End Developer,PostgreSQL,PostgreSQL for Everybody,Coursera (University of Michigan)
+Front-End Developer,PostgreSQL,The Complete SQL + PostgreSQL Bootcamp,Udemy
+Front-End Developer,PostgreSQL,PostgreSQL Database Administration Certification,LinkedIn Learning
+Front-End Developer,CI/CD,CI/CD Pipelines with Jenkins,Udemy
+Front-End Developer,CI/CD,DevOps CI/CD Pipeline Masterclass,Udemy
+Front-End Developer,CI/CD,CI/CD with GitHub Actions,Pluralsight
+Front-End Developer,Docker,Docker Certified Associate (DCA),Docker
+Front-End Developer,Docker,Docker Mastery: Kubernetes + Swarm,Udemy
+Front-End Developer,Docker,Docker & Kubernetes: The Practical Guide,Udemy
+Back-End Developer,Java,Java Programming and Software Engineering Fundamentals,Coursera (Duke University)
+Back-End Developer,Java,Oracle Certified Java Programmer (OCP),Oracle
+Back-End Developer,Spring Boot,Spring Framework Certification,Udemy
+Back-End Developer,Spring Boot,Spring Boot Microservices Certification,Udemy
+Back-End Developer,Spring Boot,Spring Professional Certification,VMware
+Back-End Developer,Node.js,The Complete Node.js Developer Course,Udemy
+Back-End Developer,Node.js,Building Scalable Node.js Applications,Coursera (Microsoft)
+Back-End Developer,Express.js,Node.js & Express.js Certification,Udemy
+Back-End Developer,SQL,SQL for Data Science,"Coursera (University of California, Davis)"
+Back-End Developer,SQL,The Complete SQL Bootcamp,Udemy
+Back-End Developer,SQL,Microsoft Certified: Azure Database Administrator Associate,Microsoft
+Back-End Developer,NoSQL,MongoDB Certified Developer Associate,MongoDB University
+Back-End Developer,NoSQL,NoSQL Database Certification,Edureka
+Back-End Developer,NoSQL,Apache Cassandra Developer Certification,Datastax
+Back-End Developer,REST APIs,REST API Development with Flask and Python,Udemy
+Back-End Developer,REST APIs,Designing RESTful APIs,Coursera (Meta)
+Back-End Developer,REST APIs,API Security and Management,Pluralsight
+Back-End Developer,GraphQL,GraphQL with React and Node.js Certification,Udemy
+Back-End Developer,GraphQL,Full-Stack GraphQL Certification,Coursera (University of Helsinki)
+Back-End Developer,GraphQL,Mastering GraphQL,Pluralsight
+Game Developer,C++,C++ Programming Certificate,Udemy
+Game Developer,C++,C++ Nanodegree Program,Udacity
+Game Developer,C++,C++ for Game Development,"Coursera (University of California, Santa Cruz)"
+Game Developer,C#,C# Programming for Unity Game Development,Coursera (University of Colorado)
+Game Developer,C#,C# Certification Course,Udemy
+Game Developer,Unity,Unity Certified Associate: Game Developer,Unity Learn
+Game Developer,Unity,Unity Game Development Certification,Udemy
+Game Developer,Unity,Unity Certified Expert Gameplay Programmer,Unity Learn
+Game Developer,Unreal Engine,Unreal Engine Foundations,Coursera (Epic Games)
+Game Developer,Unreal Engine,Unreal Engine Game Development,Udemy
+Game Developer,Unreal Engine,Unreal Engine 5 C++ Developer Certification,Udemy
+Game Developer,Game Physics,Physics for Game Developers,Udacity
+Game Developer,Game Physics,Mastering Game Physics,Pluralsight
+Game Developer,3D Rendering,Computer Graphics and 3D Rendering,Coursera (University of London)
+Game Developer,3D Rendering,3D Game Rendering with OpenGL and Vulkan,Udemy
+Game Developer,VR/AR Development,VR and AR Development Certification,Coursera (Meta)
+Game Developer,VR/AR Development,Unreal Engine VR Development,Udemy
+Game Developer,VR/AR Development,Unity VR Development Certification,Unity Learn
+Game Developer,Game AI,Artificial Intelligence for Games,Coursera (DeepLearning.AI)
+Game Developer,Game AI,Game AI Development with Unity,Udemy
+Game Developer,Game AI,AI for Game Developers,Pluralsight
